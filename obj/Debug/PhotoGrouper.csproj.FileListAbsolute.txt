@@ -1,0 +1,12 @@
+C:\Users\UGUR\source\repos\PhotoGrouper\obj\Debug\PhotoGrouper.csproj.AssemblyReference.cache
+C:\Users\UGUR\source\repos\PhotoGrouper\obj\Debug\PhotoGrouper.csproj.SuggestedBindingRedirects.cache
+C:\Users\UGUR\source\repos\PhotoGrouper\obj\Debug\PhotoGrouper.csproj.ResolveComReference.cache
+C:\Users\UGUR\source\repos\PhotoGrouper\obj\Debug\PhotoGrouper.Form1.resources
+C:\Users\UGUR\source\repos\PhotoGrouper\obj\Debug\PhotoGrouper.Properties.Resources.resources
+C:\Users\UGUR\source\repos\PhotoGrouper\obj\Debug\PhotoGrouper.csproj.GenerateResource.cache
+C:\Users\UGUR\source\repos\PhotoGrouper\obj\Debug\PhotoGrouper.csproj.CoreCompileInputs.cache
+C:\Users\UGUR\source\repos\PhotoGrouper\bin\Debug\PhotoGrouper.exe.config
+C:\Users\UGUR\source\repos\PhotoGrouper\bin\Debug\PhotoGrouper.exe
+C:\Users\UGUR\source\repos\PhotoGrouper\bin\Debug\PhotoGrouper.pdb
+C:\Users\UGUR\source\repos\PhotoGrouper\obj\Debug\PhotoGrouper.exe
+C:\Users\UGUR\source\repos\PhotoGrouper\obj\Debug\PhotoGrouper.pdb
